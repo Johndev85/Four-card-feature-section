@@ -1,4 +1,121 @@
+/* * {
+    margin: 0px;
+} */
+
 body {
     font-size: 15px;
     font-family: 'Poppins', sans-serif;
 }
+
+.header {
+    text-align: center;
+    margin-top: 50px;
+    border: 1px solid red;
+}
+
+div.header p {
+    font-size: 1.5em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.supervisor {
+    display: flex;
+}
+
+
+.monitors {
+    border: 1px solid red;
+    display: inherit;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 25px;
+}
+
+div.monitors h2 {
+    margin-bottom: 0px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+div.monitors p {
+    margin-top: 10px;
+    text-align: left;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+
+.team-builder {
+    border: 1px solid red;
+    display: inherit;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 25px;
+
+}
+
+div.team-builder h2 {
+    margin-bottom: 0px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+div.team-builder p {
+    margin-top: 10px;
+    text-align: left;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.karma {
+    border: 1px solid red;
+    display: inherit;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+div.karma h2 {
+    margin-bottom: 0px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+div.karma p {
+    margin-top: 10px;
+    text-align: left;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+
+.calculator {
+    border: 1px solid red;
+    display: inherit;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 25px;
+}
+
+div.calculator h2 {
+    margin-bottom: 0px;
+    text-align: left;
+    margin-left: 25px;
+}
+
+div.calculator p {
+    margin-top: 10px;
+    text-align: left;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+
+
