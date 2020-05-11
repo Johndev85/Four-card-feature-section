@@ -162,7 +162,7 @@ div.calculator p {
     color: hsl(228, 45%, 44%);
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 390px) {
 
     body {
         width: 375px;
@@ -209,6 +209,10 @@ div.calculator p {
         margin-top: 0px;
         margin-left: 25px;
         margin-bottom: 25px;
+    }
+
+    p {
+        font-size: 0.9em;
     }
 }
 
