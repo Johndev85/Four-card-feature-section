@@ -156,5 +156,15 @@ div.calculator p {
     margin-left: 25px;
 }
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (max-width: 600px) {
+
+
+}
 
 
