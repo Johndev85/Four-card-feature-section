@@ -4,5 +4,6 @@
 
 The challenge is to build out this feature section and get it looking as close to the design as possible.
 
-https://ibb.co/zSdNVsX
+- Watch the live project [https://johndev85.github.io/Four-card-feature-section/](https://johndev85.github.io/Four-card-feature-section/ "https://johndev85.github.io/Four-card-feature-section/")
+
 
